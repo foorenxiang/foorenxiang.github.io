@@ -8,5 +8,6 @@
   "Trees": "https://raw.githubusercontent.com/reshinto/Basic_technologies_revision/master/data_structures/13Trees/readme.md",
   "Test Driven Development": "https://raw.githubusercontent.com/reshinto/Basic_technologies_revision/master/automatedTests/testDrivenDevelopment.md",
   "Docker": "https://raw.githubusercontent.com/reshinto/Basic_technologies_revision/master/docker/dockerCheatSheet.md",
-  "Docker Create Server": "https://raw.githubusercontent.com/reshinto/Basic_technologies_revision/master/docker/createLocalServer.md"
+  "Docker Create Server": "https://raw.githubusercontent.com/reshinto/Basic_technologies_revision/master/docker/createLocalServer.md",
+  "Exfat Mac Fix": "https://gist.githubusercontent.com/foorenxiang/996060a41c42b5fe738190f3ba4890de/raw/8364827ed798a280a050ff4d1c6982dd3a9e1cc7/fix_exfat_drive.md"
 }
