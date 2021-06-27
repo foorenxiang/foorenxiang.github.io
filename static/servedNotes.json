@@ -11,6 +11,6 @@
   "Docker Create Server": "https://raw.githubusercontent.com/reshinto/Basic_technologies_revision/master/docker/createLocalServer.md",
   "Bash Cheatsheet": "https://raw.githubusercontent.com/LeCoupa/awesome-cheatsheets/master/languages/bash.sh",
   "Algorithms": "https://raw.githubusercontent.com/TSiege/Tech-Interview-Cheat-Sheet/master/README.md",
-  "JavaScript Refactoring Guide", "https://raw.githubusercontent.com/ittus/Refactoring-summary-2nd-javascript/master/README.md",
+  "JavaScript Refactoring Guide": "https://raw.githubusercontent.com/ittus/Refactoring-summary-2nd-javascript/master/README.md",
   "Exfat Mac Fix": "https://gist.githubusercontent.com/foorenxiang/996060a41c42b5fe738190f3ba4890de/raw/8364827ed798a280a050ff4d1c6982dd3a9e1cc7/fix_exfat_drive.md"
 }
